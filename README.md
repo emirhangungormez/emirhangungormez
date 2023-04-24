@@ -6,7 +6,7 @@ I'm the founder of the Anticverse company. I develop games with Unreal Engine an
 Founder at Anticerse; Webraider, Archblocker, Lodom Creations, Gök Vatan, Depth Dwellers and Red Pill.
 
 
-#### <img src="https://raw.githubusercontent.com/emirhangungormez/emirhangungormez/main/giphy.gif" width="50px" height="25px"/> Right now I'm working on:
+#### <img src="https://raw.githubusercontent.com/emirhangungormez/emirhangungormez/main/giphy.gif" width="25px" height="25px"/> Right now I'm working on:
 - ✨ Improving my previous web projects with *TypeScript* and *Sass*
 - 💚 Configuring my VPS, so that I can host web applications written in any programming language (thanks to *Nginx*)
 - 📚 Learning about *web3*
