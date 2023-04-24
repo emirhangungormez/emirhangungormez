@@ -3,7 +3,7 @@ Imagination associated with creativity is essential to increase the functionalit
 
 I'm the founder of the Anticverse company. I develop games with Unreal Engine and Unity, process images with OpenCV, develop dapps with blockchain technologies, and conduct research and development on data security and cybersecurity.
 
-Founder at Anticerse; Webraider, Archblocker, Lodom Creations, Gök Vatan, Depth Dwellers and Red Pill.
+Founder at __Anticverse; Webraider, Archblocker, Lodom Creations, Gök Vatan, Depth Dwellers and Red Pill.
 
 
 #### <img src="https://raw.githubusercontent.com/emirhangungormez/emirhangungormez/main/giphy.gif" width="35px" height="35px"/> Right now I'm working on:
