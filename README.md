@@ -8,7 +8,7 @@ Founder at [Anticverse](https://www.anticverse.com); Webraider, Archblocker, Lod
 
 #### <img src="https://raw.githubusercontent.com/emirhangungormez/emirhangungormez/main/giphy.gif" width="35px" height="35px"/> Right now I'm working on:
 - 🪓 Conduct develop the sci-fi themed medieval third-person hard-core [Orpheus](https://www.anticverse.com/orpheus) series with Unreal Engine 5.1
-- 💚 Configuring my VPS, so that I can host web applications written in any programming language (thanks to *Nginx*)
+- 🗡️ I'm coding projects and managing teams in {Anticverse Labs} by creating mentalism on a philosophical basis.
 - 📚 Learning about *Web3 & AI*
 
 <br>
