@@ -16,6 +16,5 @@ Founder at Anticerse; Webraider, Archblocker, Lodom Creations, Gök Vatan, Depth
 <span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=emirhangungormez&theme=transparent&hide_border=true&hide=html&layout=compact&langs_count=6&card_width=275" alt="My most used languages" align="center"></span>
 <br>
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emirhangungormez&label=Profile%20views&color=0e75b6&style=flat" alt="emirhangungormez" /> </p> `// Senseless softwares only inspires sophomoric developers.`
+`// Senseless softwares only inspires sophomoric developers.`
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emirhangungormez&label=Profile%20views&color=0e75b6&style=flat" alt="emirhangungormez" /> </p> 
