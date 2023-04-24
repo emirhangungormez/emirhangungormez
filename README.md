@@ -3,13 +3,13 @@ Imagination associated with creativity is essential to increase the functionalit
 
 I'm the founder of the Anticverse company. I develop games with Unreal Engine and Unity, process images with OpenCV, develop dapps with blockchain technologies, and conduct research and development on data security and cybersecurity.
 
-Founder at __Anticverse; Webraider, Archblocker, Lodom Creations, Gök Vatan, Depth Dwellers and Red Pill.
+Founder at [Anticverse](https://www.anticverse.com/orpheus); Webraider, Archblocker, Lodom Creations, Gök Vatan, Depth Dwellers and Red Pill.
 
 
 #### <img src="https://raw.githubusercontent.com/emirhangungormez/emirhangungormez/main/giphy.gif" width="35px" height="35px"/> Right now I'm working on:
-- ✨ Improving my previous web projects with *TypeScript* and *Sass*
+- 🪓 Conduct develop the sci-fi themed medieval third-person hard-core [Orpheus](https://www.anticverse.com/orpheus) series with Unreal Engine 5.1
 - 💚 Configuring my VPS, so that I can host web applications written in any programming language (thanks to *Nginx*)
-- 📚 Learning about *web3*
+- 📚 Learning about *Web3 & AI*
 
 <br>
 <span><img src="https://github-readme-stats.vercel.app/api?username=emirhangungormez&theme=transparent&hide_border=true&hide=issues&show_icons=true&include_all_commits=true" alt="My GitHub stats" align="center"></span>
