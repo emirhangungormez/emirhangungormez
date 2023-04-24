@@ -1,15 +1,21 @@
-## Welcome to my *distinguished* Github profile!
+## Welcome to my *distinguished* Github profile!👋
+Imagination associated with creativity is essential to increase the functionality of knowledge. And all this happens in the presence of passion. I develop projects at the intersection of computer science and engineering, with the essence of dialectical philosophical thought. I always reiterate my belief that the words education and teaching need to evolve. I express my commitment to concepts such as instruction and discipline.
 
-# Merhaba, benim adım [Emirhan] 👋
+I'm the founder of the Anticverse company. I develop games with Unreal Engine and Unity, process images with OpenCV, develop dapps with blockchain technologies, and conduct research and development on data security and cybersecurity.
 
-## Hakkımda
-[Anticverse] adlı şirketleşme organizasyonunun kurucusuyum. Aynı zamanda [Bilgisayar Mühendisliği] alanında öğrenim görmekteyim. [Hobileriniz veya ilgi alanlarınız] gibi kişisel ilgi alanlarına sahibim.
+Founder at Anticerse; Webraider, Archblocker, Lodom Creations, Gök Vatan, Depth Dwellers and Red Pill.
 
-## Projelerim
-- [Orpheus Underland]([link](https://anticverse.com/orpheus): Unreal Engine 5 ile geliştiriren bilim-kurgu temalı orta çağ bir third-person/hard-core oyun.
 
-## İletişim
+#### Right now I'm working on:
+- ✨ Improving my previous web projects with *TypeScript* and *Sass*
+- 💚 Configuring my VPS, so that I can host web applications written in any programming language (thanks to *Nginx*)
+- 📚 Learning about *web3*
 
-[<i class="fab fa-linkedin"></i> LinkedIn]([link](https://www.linkedin.com/in/emirhangungormez))&nbsp;&nbsp;&nbsp;&nbsp;[<i class="fab fa-twitter"></i> Twitter]([link](https://twitter.com/emirhangngrmz))&nbsp;&nbsp;&nbsp;&nbsp;[<i class="fab fa-github"></i> GitHub]([link](https://github.com/emirhangungormez))
 
-![Merhaba](https://media.giphy.com/media/3o7aCSPqXE5C6T8tBC/giphy.gif)
+<br>
+<span><img src="https://github-readme-stats.vercel.app/api?username=emirhangungormez&theme=transparent&hide_border=true&hide=issues&show_icons=true&include_all_commits=true" alt="My GitHub stats" align="center"></span>
+<span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=emirhangungormez&theme=transparent&hide_border=true&hide=html&layout=compact&langs_count=6&card_width=275" alt="My most used languages" align="center"></span>
+<br>
+
+
+`// Senseless softwares only inspires sophomoric developers.`
