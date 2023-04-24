@@ -19,4 +19,4 @@ Founder at Anticerse; Webraider, Archblocker, Lodom Creations, Gök Vatan, Depth
 
 
 `// Senseless softwares only inspires sophomoric developers.`
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emirhangungormez&label=Profile%20views&color=0e75b6&style=flat" alt="emirhangungormez" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emirhangungormez&label=Profile%20Views&color=0e75b6&style=flat" alt="emirhangungormez" /> </p> 
