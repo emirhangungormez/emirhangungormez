@@ -1,4 +1,4 @@
-## Welcome to my *distinguished* Github profile!👋
+## Welcome to my *`distinguished`* Github profile!👋
 Imagination associated with creativity is essential to increase the functionality of knowledge. And all this happens in the presence of passion. I develop projects at the intersection of computer science and engineering, with the essence of dialectical philosophical thought. I always reiterate my belief that the words education and teaching need to evolve. I express my commitment to concepts such as instruction and discipline.
 
 I'm the founder of the Anticverse company. I develop games with Unreal Engine and Unity, process images with OpenCV, develop dapps with blockchain technologies, and conduct research and development on data security and cybersecurity.
