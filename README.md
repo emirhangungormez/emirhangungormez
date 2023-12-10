@@ -8,7 +8,7 @@ Founder at [Anticverse](https://www.anticverse.com); Webraider, Lodom Creations,
 
 #### <img src="https://raw.githubusercontent.com/emirhangungormez/emirhangungormez/main/giphy.gif" width="35px" height="35px"/> Right now I'm working on:
 - 📱 My current focus involves crafting Hyper/Hybrid Casual games tailored for mobile platforms under international publishers.
-- 🪓 Conduct develop the sci-fi themed medieval third-person hard-core [Corpus Orphicum](https://www.anticverse.com/corpusorphicum) series with Unreal Engine 5.2.
+- 🪓 Conduct develop the sci-fi themed medieval third-person hard-core [Corpus Orphicum](https://www.anticverse.com/corpusorphicum) series with Unreal Engine 5.3.
 - 🗡️ I'm coding projects and managing teams in {Anticverse Labs} by creating mentalism on a philosophical basis.
 - 📚 Learning about *Swift & Game Software*
 
