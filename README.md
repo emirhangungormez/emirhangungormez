@@ -7,9 +7,10 @@ Founder at [Anticverse](https://www.anticverse.com); Webraider, Archblocker, Lod
 
 
 #### <img src="https://raw.githubusercontent.com/emirhangungormez/emirhangungormez/main/giphy.gif" width="35px" height="35px"/> Right now I'm working on:
-- 🪓 Conduct develop the sci-fi themed medieval third-person hard-core [Corpus Orphicum](https://www.anticverse.com/orpheus) series with Unreal Engine 5.2
+- 📱 My current focus involves crafting Hyper/Hybrid Casual games tailored for mobile platforms under international publishers.
+- 🪓 Conduct develop the sci-fi themed medieval third-person hard-core [Corpus Orphicum](https://www.anticverse.com/corpusorphicum) series with Unreal Engine 5.2.
 - 🗡️ I'm coding projects and managing teams in {Anticverse Labs} by creating mentalism on a philosophical basis.
-- 📚 Learning about *Web3 & AI*
+- 📚 Learning about *Swift & Game Software*
 
 <br>
 <span><img src="https://github-readme-stats.vercel.app/api?username=emirhangungormez&theme=transparent&hide_border=true&hide=issues&show_icons=true&include_all_commits=true" alt="My GitHub stats" align="center"></span>
