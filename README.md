@@ -19,5 +19,5 @@ Founder at [Anticverse](https://www.anticverse.com); Webraider, Archblocker, Lod
 
 
 
-`// Senseless softwares only inspires sophomoric developers.`
+`// Senseless software only inspires sophomoric developers.`
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emirhangungormez&label=Profile%20Views&color=0e75b6&style=flat" alt="emirhangungormez" /> </p> 
