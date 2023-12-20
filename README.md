@@ -3,7 +3,7 @@
 
 And now, draw your swords to those dealing with inter-dimensional esoteric warfare and consciousness manipulation by vøid-spawn! Ask yourselves what God intends for you. This is an ancient tale of pilgrims traversing the desert without a guide, heading towards promised lands, only to face a deceptive mirage or a painful death due to thirst.
 
-It always concludes with the same outcry: `My God, why have you forsaken me!`
+It always concludes with the same outcry: `Ελωΐ, Ελωΐ, λαμμα σαβαχθανι!`
 
 -----
 
