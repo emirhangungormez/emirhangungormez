@@ -14,7 +14,7 @@ Multi-disciplinary uncertified pre-engineering student's technology skills and d
 - **Cryptology/Blockchain**: Solidity, EVM & Avalanche Architecture, Hyperledger Fabric,  Web3.js, ethers.js, OpenZeppelin, Truffle for Chain Lab, dApps for Web, Tokenization (ERC-20, ERC-721, ERC-1155).
 - **Unity/Unreal Engine**: Materials Management, Blueprint Child Coding, C# for Unity, Blender for Models and Basics, Illistrator/Figma for 2D Designs, PCG AI for Level Designs, EQS AI for Blueprint, Behavior Trees AI Management, Sequence/Animator Management.
 
-### Active working domains in my idealized project frameworks include:
+### And proof of the applicability of fiction in praxis:
 Soon!
 
 -----
