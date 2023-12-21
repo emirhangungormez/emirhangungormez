@@ -13,3 +13,6 @@ Multi-disciplinary uncertified pre-engineering student's technology skills and d
 - **Web/Security Rsearch**: HTML-CSS, Javascript, Typescript, Node.js, Three,js, MongoDB, SQL, Rhizomatic Network (Web 3.0), Network Basics, Kali Linux Tools (Nmap, Metasploit, Wireshark, Hashcat, Hydra, John the Ripper...), Bash Script (& Shell).
 - **Cryptology/Blockchain**: Solidity, EVM & Avalanche Architecture, Hyperledger Fabric,  Web3.js, ethers.js, OpenZeppelin, Truffle for Chain Lab, dApps for Web, Tokenization (ERC-20, ERC-721, ERC-1155).
 - **Unity/Unreal Engine**: Materials Management, Blueprint Child Coding, C# for Unity, Blender for Models and Basics, Illistrator/Figma for 2D Designs, PCG AI for Level Designs, EQS AI for Blueprint, Behavior Trees AI Management, Sequence/Animator Management.
+
+
+إِن يَنصُرْكُمُ اللّهُ فَلاَ غَالِبَ لَكُمْ وَإِن يَخْذُلْكُمْ فَمَن ذَا الَّذِي يَنصُرُكُم مِّن بَعْدِهِ وَعَلَى اللّهِ فَلْيَتَوَكِّلِ الْمُؤْمِنُونَ
