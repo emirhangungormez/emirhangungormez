@@ -15,7 +15,7 @@ Multi-disciplinary uncertified pre-engineering student's technology skills and d
 - **Unity/Unreal Engine**: Materials Management, Blueprint Child Coding, C# for Unity, Blender for Models and Basics, Illistrator/Figma for 2D Designs, PCG AI for Level Designs, EQS AI for Blueprint, Behavior Trees AI Management, Sequence/Animator Management.
 
 ### And proof of the applicability of fiction in praxis:
-- [emirhangungormez.com/work](https://www.emirhangungormez.com/work)
+- [emirhangungormez.com/work.html](https://emirhangungormez.com/work.html)
 
 <div align=center>
 </div>
