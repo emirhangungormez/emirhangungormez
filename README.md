@@ -7,14 +7,83 @@ It always concludes with the same outcry: `Ελωΐ, Ελωΐ, λαμμα σαβ
 
 -----
 
-### Active working domains in my idealized project frameworks include:
-Multi-disciplinary uncertified pre-engineering student's technology skills and dealings with thinking stones.
+<div align="center">
 
-- **Mobile/Desktop App**: SwiftUI, Python, .NET Basics, React Native, C# Basics for Desktop, Electron Basics.
-- **Web/Security Research**: HTML-CSS, Javascript, Typescript, Node.js, Next.js, Barba,js, CDN.js, GSAP, Three,js, MongoDB, PHP, SQL, Rhizomatic Network (Web 3.0), Network Basics, Kali Linux Tools (Nmap, Metasploit, Wireshark, Hashcat, Hydra, John the Ripper...), Bash Script (& Shell), VDS/VPS/Hosting Administration, Server Deployment & Management.
-- **Cryptology/Blockchain**: Solidity Basics, EVM & Avalanche Architecture, Hyperledger Fabric Basics, Web3.js, ethers.js, OpenZeppelin, Truffle for Chain Lab, dApps for Web, Unity Game for Web3, Elympics SDK, Tokenization (ERC-20, ERC-721, ERC-1155).
-- **Unity/Unreal Engine**: Materials Management, Animation Blueprint Coding, Blueprint Child Coding, C# for Unity, Blender for Models and Basics, Illistrator/Figma for 2D Designs, PCG AI for Level Designs, EQS AI for Blueprint, Behavior Trees AI Management, Clothing Physics Management, Sequence/Animator Management, Unreal Engine 5.7, C++ Plugin Development (Fab Marketplace), Epic Certified Silver Instructor 2025, Motion Capture Locomotion Systems, Advanced Blueprint Systems. Currently developing: [@barzakhgame](https://x.com/barzakhgame) & [@truckupgame](https://x.com/truckupgame).
-- **AI-Augmented Development**: LLM Integration, AI Agent Training, Automated Documentation, AI-Assisted Research & Architecture Design.
+## Active Domains & Applied Systems
+
+**Multidisciplinary engineering, research, real-time systems, and creative technology.**
+
+<img src="https://img.shields.io/badge/EPIC_CERTIFIED-SILVER_INSTRUCTOR_2025-C0C0C0?style=for-the-badge&logo=unrealengine&logoColor=111111" alt="Epic Certified Silver Instructor 2025">
+<img src="https://img.shields.io/badge/FOCUS-REAL--TIME_%26_INTELLIGENT_SYSTEMS-6f42c1?style=for-the-badge" alt="Real-time and intelligent systems">
+<img src="https://img.shields.io/badge/STATUS-BUILDING_IN_PUBLIC-238636?style=for-the-badge&logo=github" alt="Building in public">
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Mobile & Desktop Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=swift,python,dotnet,react,cs,electron&theme=dark" alt="Swift, Python, .NET, React, C Sharp and Electron">
+</p>
+
+Cross-platform application development with **SwiftUI, Python, .NET, React Native, C#**, and **Electron**.
+
+</td>
+<td width="50%" valign="top">
+
+### Web, Security & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,nextjs,mongodb,php,mysql,kali,linux,bash&theme=dark" alt="Web, database, security and infrastructure technologies">
+</p>
+
+Web systems, motion-rich interfaces, security research, Linux tooling, networks, hosting, and production deployment. Working with **GSAP, Three.js, Barba.js, SQL, MongoDB, Kali Linux**, and server infrastructure.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Cryptology & Blockchain
+
+<p>
+<img src="https://skillicons.dev/icons?i=solidity,ethereum,js&theme=dark" alt="Solidity, Ethereum and JavaScript">
+</p>
+
+Research and prototyping across **EVM and Avalanche architecture, Hyperledger Fabric, Web3.js, ethers.js, OpenZeppelin**, smart contracts, dApps, and token standards **ERC-20 / ERC-721 / ERC-1155**.
+
+</td>
+<td width="50%" valign="top">
+
+### Real-Time 3D & Game Systems
+
+<p>
+<img src="https://skillicons.dev/icons?i=unreal,unity,cpp,cs,blender,figma,ai&theme=dark" alt="Unreal Engine, Unity, C++, C Sharp, Blender, Figma and Illustrator">
+</p>
+
+Advanced work in **Unreal Engine 5.7 and Unity**: Blueprint architecture, C++ plugins, PCG and EQS AI, behavior trees, animation systems, motion capture locomotion, clothing physics, materials, and real-time pipelines.
+
+**Currently developing:** [@barzakhgame](https://x.com/barzakhgame) · [@truckupgame](https://x.com/truckupgame)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### AI-Augmented Development
+
+<img src="https://img.shields.io/badge/LLM_INTEGRATION-111827?style=flat-square&logo=openai&logoColor=white" alt="LLM Integration">
+<img src="https://img.shields.io/badge/AI_AGENT_TRAINING-111827?style=flat-square&logo=openai&logoColor=white" alt="AI Agent Training">
+<img src="https://img.shields.io/badge/AUTOMATED_DOCUMENTATION-111827?style=flat-square&logo=readthedocs&logoColor=white" alt="Automated Documentation">
+<img src="https://img.shields.io/badge/RESEARCH_%26_ARCHITECTURE-111827?style=flat-square&logo=diagramsdotnet&logoColor=white" alt="AI-assisted research and architecture">
+
+</div>
 
 ### And proof of the applicability of fiction in praxis:
 - [emirhangungormez.com.tr/work](https://emirhangungormez.com.tr)
@@ -24,4 +93,4 @@ Multi-disciplinary uncertified pre-engineering student's technology skills and d
 
 -----
 
-إِن يَنصُرْكُمُ اللّهُ فَلاَ غَالِبَ لَكُمْ وَإِن يَخْذُلْكُمْ فَمَن ذَا الَّذِي يَنصُرُكُم مِّن بَعْدِهِ وَعَلَى اللّهِ فَلْيَتَوَكِّلِ الْمُؤْمِنُونَ
+إِن يَنصُرْكُمُ اللّهُ فَلاَ غَالِبَ لَكُمْ وَإِن يَخْذُلْكُمْ فَمَن ذَا الَّذِي يَنصُرُكُم مِّن بَعْدِهِ وَعَلَى اللّهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ
