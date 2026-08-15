@@ -1,96 +1,150 @@
-## The *`vøid-spawn`* area of Inter/dimensional codes!
-<img src="https://raw.githubusercontent.com/emirhangungormez/emirhangungormez/main/unique.jpg "/>
+## The _`vøid-spawn`_ area of Inter/dimensional codes!
+
+&lt;img src="https://raw.githubusercontent.com/emirhangungormez/emirhangungormez/main/unique.jpg" width="100%" /&gt;
 
 And now, draw your swords to those dealing with inter-dimensional esoteric warfare and consciousness manipulation by vøid-spawn! Ask yourselves what God intends for you. This is an ancient tale of pilgrims traversing the desert without a guide, heading towards promised lands, only to face a deceptive mirage or a painful death due to thirst.
 
 It always concludes with the same outcry: `Ελωΐ, Ελωΐ, λαμμα σαβαχθανι!`
 
------
+---
 
-<div align="center">
+&lt;div align="center"&gt;
 
 ## Active Domains & Applied Systems
 
 **Multidisciplinary engineering, research, real-time systems, and creative technology.**
 
-<img src="https://img.shields.io/badge/EPIC_CERTIFIED-SILVER_INSTRUCTOR_2025-C0C0C0?style=for-the-badge&logo=unrealengine&logoColor=111111" alt="Epic Certified Silver Instructor 2025">
-<img src="https://img.shields.io/badge/FOCUS-REAL--TIME_%26_INTELLIGENT_SYSTEMS-6f42c1?style=for-the-badge" alt="Real-time and intelligent systems">
-<img src="https://img.shields.io/badge/STATUS-BUILDING_IN_PUBLIC-238636?style=for-the-badge&logo=github" alt="Building in public">
+&lt;img src="https://img.shields.io/badge/EPIC_CERTIFIED-SILVER_INSTRUCTOR_2025-C0C0C0?style=for-the-badge&logo=unrealengine&logoColor=111111" alt="Epic Certified Silver Instructor 2025"&gt;
+&lt;img src="https://img.shields.io/badge/FOCUS-REAL--TIME_%26_INTELLIGENT_SYSTEMS-6f42c1?style=for-the-badge" alt="Real-time and intelligent systems"&gt;
+&lt;img src="https://img.shields.io/badge/STATUS-BUILDING_IN_PUBLIC-238636?style=for-the-badge&logo=github" alt="Building in public"&gt;
 
-</div>
+&lt;/div&gt;
 
-<br>
+&lt;br&gt;
 
-<table>
-<tr>
-<td width="50%" valign="top">
+&lt;div align="center"&gt;
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emirhangungormez&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6f42c1&icon_color=6f42c1&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emirhangungormez&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=6f42c1&text_color=c9d1d9)
+
+&lt;/div&gt;
+
+&lt;br&gt;
+
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td width="50%" valign="top"&gt;
 
 ### Mobile & Desktop Engineering
 
-<p>
-<img src="https://skillicons.dev/icons?i=swift,python,dotnet,react,cs,electron&theme=dark" alt="Swift, Python, .NET, React, C Sharp and Electron">
-</p>
+&lt;p&gt;
+&lt;img src="https://skillicons.dev/icons?i=swift,python,dotnet,react,cs,electron&theme=dark" alt="Swift, Python, .NET, React, C Sharp and Electron"&gt;
+&lt;/p&gt;
 
 Cross-platform application development with **SwiftUI, Python, .NET, React Native, C#**, and **Electron**.
 
-</td>
-<td width="50%" valign="top">
+&lt;/td&gt;
+&lt;td width="50%" valign="top"&gt;
 
 ### Web, Security & Infrastructure
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,nextjs,mongodb,php,mysql,kali,linux,bash&theme=dark" alt="Web, database, security and infrastructure technologies">
-</p>
+&lt;p&gt;
+&lt;img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,nextjs,mongodb,php,mysql,kali,linux,bash&theme=dark" alt="Web, database, security and infrastructure technologies"&gt;
+&lt;/p&gt;
 
 Web systems, motion-rich interfaces, security research, Linux tooling, networks, hosting, and production deployment. Working with **GSAP, Three.js, Barba.js, SQL, MongoDB, Kali Linux**, and server infrastructure.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="50%" valign="top"&gt;
 
 ### Cryptology & Blockchain
 
-<p>
-<img src="https://skillicons.dev/icons?i=solidity,ethereum,js&theme=dark" alt="Solidity, Ethereum and JavaScript">
-</p>
+&lt;p&gt;
+&lt;img src="https://skillicons.dev/icons?i=solidity,ethereum,js&theme=dark" alt="Solidity, Ethereum and JavaScript"&gt;
+&lt;/p&gt;
 
 Research and prototyping across **EVM and Avalanche architecture, Hyperledger Fabric, Web3.js, ethers.js, OpenZeppelin**, smart contracts, dApps, and token standards **ERC-20 / ERC-721 / ERC-1155**.
 
-</td>
-<td width="50%" valign="top">
+&lt;/td&gt;
+&lt;td width="50%" valign="top"&gt;
 
 ### Real-Time 3D & Game Systems
 
-<p>
-<img src="https://skillicons.dev/icons?i=unreal,unity,cpp,cs,blender,figma,ai&theme=dark" alt="Unreal Engine, Unity, C++, C Sharp, Blender, Figma and Illustrator">
-</p>
+&lt;p&gt;
+&lt;img src="https://skillicons.dev/icons?i=unreal,unity,cpp,cs,blender,figma,ai&theme=dark" alt="Unreal Engine, Unity, C++, C Sharp, Blender, Figma and Illustrator"&gt;
+&lt;/p&gt;
 
 Advanced work in **Unreal Engine 5.7 and Unity**: Blueprint architecture, C++ plugins, PCG and EQS AI, behavior trees, animation systems, motion capture locomotion, clothing physics, materials, and real-time pipelines.
 
 **Currently developing:** [@barzakhgame](https://x.com/barzakhgame) · [@truckupgame](https://x.com/truckupgame)
 
-</td>
-</tr>
-</table>
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
 
-<div align="center">
+&lt;div align="center"&gt;
 
 ### AI-Augmented Development
 
-<img src="https://img.shields.io/badge/LLM_INTEGRATION-111827?style=flat-square&logo=openai&logoColor=white" alt="LLM Integration">
-<img src="https://img.shields.io/badge/AI_AGENT_TRAINING-111827?style=flat-square&logo=openai&logoColor=white" alt="AI Agent Training">
-<img src="https://img.shields.io/badge/AUTOMATED_DOCUMENTATION-111827?style=flat-square&logo=readthedocs&logoColor=white" alt="Automated Documentation">
-<img src="https://img.shields.io/badge/RESEARCH_%26_ARCHITECTURE-111827?style=flat-square&logo=diagramsdotnet&logoColor=white" alt="AI-assisted research and architecture">
+&lt;img src="https://img.shields.io/badge/LLM_INTEGRATION-111827?style=flat-square&logo=openai&logoColor=white" alt="LLM Integration"&gt;
+&lt;img src="https://img.shields.io/badge/AI_AGENT_TRAINING-111827?style=flat-square&logo=openai&logoColor=white" alt="AI Agent Training"&gt;
+&lt;img src="https://img.shields.io/badge/AUTOMATED_DOCUMENTATION-111827?style=flat-square&logo=readthedocs&logoColor=white" alt="Automated Documentation"&gt;
+&lt;img src="https://img.shields.io/badge/RESEARCH_%26_ARCHITECTURE-111827?style=flat-square&logo=diagramsdotnet&logoColor=white" alt="AI-assisted research and architecture"&gt;
 
-</div>
+&lt;/div&gt;
+
+&lt;br&gt;
+
+&lt;div align="center"&gt;
+
+### 🔥 Featured Projects
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [Barzakh](https://x.com/barzakhgame) | UE5, C++, Blueprint | Real-time 3D game project currently in active development. |
+| [TruckUp](https://x.com/truckupgame) | Unity, C# | Cross-platform game systems and vehicle simulation. |
+
+&lt;/div&gt;
+
+&lt;br&gt;
+
+&lt;div align="center"&gt;
+
+### 📡 Connect
+
+[![X](https://img.shields.io/badge/X-@emirhangungormez-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/emirhangungormez)
+[![Website](https://img.shields.io/badge/Website-emirhangungormez.com.tr-111111?style=flat-square&logo=google-chrome&logoColor=white)](https://emirhangungormez.com.tr)
+[![Website / Work](https://img.shields.io/badge/Work-emirhangungormez.com.tr/work-6f42c1?style=flat-square&logo=google-chrome&logoColor=white)](https://emirhangungormez.com.tr/work)
+
+&lt;/div&gt;
+
+&lt;br&gt;
+
+&lt;div align="center"&gt;
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=emirhangungormez&theme=darkhub&no-frame=true&margin-w=15&margin-h=15)
+
+&lt;/div&gt;
+
+&lt;br&gt;
+
+&lt;div align="center"&gt;
+
+![Visitors](https://komarev.com/ghpvc/?username=emirhangungormez&color=6f42c1&style=flat-square)
+
+&lt;/div&gt;
+
+---
 
 ### And proof of the applicability of fiction in praxis:
-- [emirhangungormez.com.tr/work](https://emirhangungormez.com.tr)
+- [emirhangungormez.com.tr/work](https://emirhangungormez.com.tr/work)
 
-<div align=center>
-</div>
+---
 
------
+&lt;div align="center"&gt;
 
 إِن يَنصُرْكُمُ اللّهُ فَلاَ غَالِبَ لَكُمْ وَإِن يَخْذُلْكُمْ فَمَن ذَا الَّذِي يَنصُرُكُم مِّن بَعْدِهِ وَعَلَى اللّهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ
+
+&lt;/div&gt;
