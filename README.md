@@ -89,7 +89,7 @@ Advanced work in <b>Unreal Engine 5.7 and Unity</b>: Blueprint architecture, C++
 
 <h3>And proof of the applicability of fiction in praxis:</h3>
 <ul>
-<li><a href="https://emirhangungormez.com.tr/work">emirhangungormez.com.tr/work</a></li>
+<li><a href="https://emirhangungormez.com.tr/#work">emirhangungormez.com.tr/work</a></li>
 </ul>
 
 <div align="center">
