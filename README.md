@@ -1,6 +1,8 @@
 ## The _`vøid-spawn`_ area of Inter/dimensional codes!
 
-&lt;img src="https://raw.githubusercontent.com/emirhangungormez/emirhangungormez/main/unique.jpg" width="100%" /&gt;
+&lt;p align="center"&gt;
+  &lt;img src="https://raw.githubusercontent.com/emirhangungormez/emirhangungormez/main/unique.jpg" width="100%" /&gt;
+&lt;/p&gt;
 
 And now, draw your swords to those dealing with inter-dimensional esoteric warfare and consciousness manipulation by vøid-spawn! Ask yourselves what God intends for you. This is an ancient tale of pilgrims traversing the desert without a guide, heading towards promised lands, only to face a deceptive mirage or a painful death due to thirst.
 
@@ -8,7 +10,7 @@ It always concludes with the same outcry: `Ελωΐ, Ελωΐ, λαμμα σαβ
 
 ---
 
-&lt;div align="center"&gt;
+&lt;p align="center"&gt;
 
 ## Active Domains & Applied Systems
 
@@ -18,16 +20,16 @@ It always concludes with the same outcry: `Ελωΐ, Ελωΐ, λαμμα σαβ
 &lt;img src="https://img.shields.io/badge/FOCUS-REAL--TIME_%26_INTELLIGENT_SYSTEMS-6f42c1?style=for-the-badge" alt="Real-time and intelligent systems"&gt;
 &lt;img src="https://img.shields.io/badge/STATUS-BUILDING_IN_PUBLIC-238636?style=for-the-badge&logo=github" alt="Building in public"&gt;
 
-&lt;/div&gt;
+&lt;/p&gt;
 
 &lt;br&gt;
 
-&lt;div align="center"&gt;
+&lt;p align="center"&gt;
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emirhangungormez&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6f42c1&icon_color=6f42c1&text_color=c9d1d9)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emirhangungormez&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=6f42c1&text_color=c9d1d9)
+&lt;img src="https://github-readme-stats.vercel.app/api?username=emirhangungormez&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6f42c1&icon_color=6f42c1&text_color=c9d1d9" alt="GitHub Stats" /&gt;
+&lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirhangungormez&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=6f42c1&text_color=c9d1d9" alt="Top Languages" /&gt;
 
-&lt;/div&gt;
+&lt;/p&gt;
 
 &lt;br&gt;
 
@@ -84,7 +86,7 @@ Advanced work in **Unreal Engine 5.7 and Unity**: Blueprint architecture, C++ pl
 &lt;/tr&gt;
 &lt;/table&gt;
 
-&lt;div align="center"&gt;
+&lt;p align="center"&gt;
 
 ### AI-Augmented Development
 
@@ -93,11 +95,11 @@ Advanced work in **Unreal Engine 5.7 and Unity**: Blueprint architecture, C++ pl
 &lt;img src="https://img.shields.io/badge/AUTOMATED_DOCUMENTATION-111827?style=flat-square&logo=readthedocs&logoColor=white" alt="Automated Documentation"&gt;
 &lt;img src="https://img.shields.io/badge/RESEARCH_%26_ARCHITECTURE-111827?style=flat-square&logo=diagramsdotnet&logoColor=white" alt="AI-assisted research and architecture"&gt;
 
-&lt;/div&gt;
+&lt;/p&gt;
 
 &lt;br&gt;
 
-&lt;div align="center"&gt;
+&lt;p align="center"&gt;
 
 ### 🔥 Featured Projects
 
@@ -106,35 +108,41 @@ Advanced work in **Unreal Engine 5.7 and Unity**: Blueprint architecture, C++ pl
 | [Barzakh](https://x.com/barzakhgame) | UE5, C++, Blueprint | Real-time 3D game project currently in active development. |
 | [TruckUp](https://x.com/truckupgame) | Unity, C# | Cross-platform game systems and vehicle simulation. |
 
-&lt;/div&gt;
+&lt;/p&gt;
 
 &lt;br&gt;
 
-&lt;div align="center"&gt;
+&lt;p align="center"&gt;
 
 ### 📡 Connect
 
-[![X](https://img.shields.io/badge/X-@emirhangungormez-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/emirhangungormez)
-[![Website](https://img.shields.io/badge/Website-emirhangungormez.com.tr-111111?style=flat-square&logo=google-chrome&logoColor=white)](https://emirhangungormez.com.tr)
-[![Website / Work](https://img.shields.io/badge/Work-emirhangungormez.com.tr/work-6f42c1?style=flat-square&logo=google-chrome&logoColor=white)](https://emirhangungormez.com.tr/work)
+&lt;a href="https://x.com/emirhangungormez"&gt;
+  &lt;img src="https://img.shields.io/badge/X-@emirhangungormez-000000?style=flat-square&logo=x&logoColor=white" alt="X" /&gt;
+&lt;/a&gt;
+&lt;a href="https://emirhangungormez.com.tr"&gt;
+  &lt;img src="https://img.shields.io/badge/Website-emirhangungormez.com.tr-111111?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /&gt;
+&lt;/a&gt;
+&lt;a href="https://emirhangungormez.com.tr/work"&gt;
+  &lt;img src="https://img.shields.io/badge/Work-emirhangungormez.com.tr/work-6f42c1?style=flat-square&logo=google-chrome&logoColor=white" alt="Work" /&gt;
+&lt;/a&gt;
 
-&lt;/div&gt;
-
-&lt;br&gt;
-
-&lt;div align="center"&gt;
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=emirhangungormez&theme=darkhub&no-frame=true&margin-w=15&margin-h=15)
-
-&lt;/div&gt;
+&lt;/p&gt;
 
 &lt;br&gt;
 
-&lt;div align="center"&gt;
+&lt;p align="center"&gt;
 
-![Visitors](https://komarev.com/ghpvc/?username=emirhangungormez&color=6f42c1&style=flat-square)
+&lt;img src="https://github-profile-trophy.vercel.app/?username=emirhangungormez&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" /&gt;
 
-&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;br&gt;
+
+&lt;p align="center"&gt;
+
+&lt;img src="https://komarev.com/ghpvc/?username=emirhangungormez&color=6f42c1&style=flat-square" alt="Visitors" /&gt;
+
+&lt;/p&gt;
 
 ---
 
@@ -143,8 +151,8 @@ Advanced work in **Unreal Engine 5.7 and Unity**: Blueprint architecture, C++ pl
 
 ---
 
-&lt;div align="center"&gt;
+&lt;p align="center"&gt;
 
 إِن يَنصُرْكُمُ اللّهُ فَلاَ غَالِبَ لَكُمْ وَإِن يَخْذُلْكُمْ فَمَن ذَا الَّذِي يَنصُرُكُم مِّن بَعْدِهِ وَعَلَى اللّهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ
 
-&lt;/div&gt;
+&lt;/p&gt;
