@@ -70,7 +70,7 @@ Research and prototyping across <b>EVM and Avalanche architecture, Hyperledger F
 
 Advanced work in <b>Unreal Engine 5.7 and Unity</b>: Blueprint architecture, C++ plugins, PCG and EQS AI, behavior trees, animation systems, motion capture locomotion, clothing physics, materials, and real-time pipelines.
 
-<b>Currently developing:</b> <a href="https://x.com/barzakhgame">@barzakhgame</a> · <a href="https://x.com/truckupgame">@truckupgame</a>
+<b>Currently developing:</b> <a href="https://x.com/barzakhgame" target="_blank" rel="noopener noreferrer">@barzakhgame</a> · <a href="https://x.com/truckupgame" target="_blank" rel="noopener noreferrer">@truckupgame</a>
 
 </td>
 </tr>
@@ -89,7 +89,7 @@ Advanced work in <b>Unreal Engine 5.7 and Unity</b>: Blueprint architecture, C++
 
 <h3>And proof of the applicability of fiction in praxis:</h3>
 <ul>
-<li><a href="https://emirhangungormez.com.tr/#work">emirhangungormez.com.tr/work</a></li>
+<li><a href="https://emirhangungormez.com.tr/#work" target="_blank" rel="noopener noreferrer">emirhangungormez.com.tr/work</a></li>
 </ul>
 
 <div align="center">
@@ -101,55 +101,57 @@ Advanced work in <b>Unreal Engine 5.7 and Unity</b>: Blueprint architecture, C++
 <table>
 <tr>
 <td align="center" width="20%">
-<a href="https://emirhangungormez.com.tr/work#kuran23">
-<img src="https://emirhangungormez.com.tr/assets/images/logos/kuran23.svg" width="120" alt="Kuran23" />
+<a href="https://emirhangungormez.com.tr/kuran23" target="_blank" rel="noopener noreferrer">
+<img src="https://emirhangungormez.com.tr/assets/images/logos/kuran23.svg" width="120" alt="Kuran23" style="filter: brightness(0) invert(1);" />
 </a>
 <br><br>
 <b>Kuran23</b><br>
 <small>Platform & AI · 2024 – 2026</small>
 </td>
 <td align="center" width="20%">
-<a href="https://emirhangungormez.com.tr/work#barzakh">
-<img src="https://emirhangungormez.com.tr/assets/images/logos/barzakh.svg" width="120" alt="Barzakh" />
+<a href="https://emirhangungormez.com.tr/barzakh" target="_blank" rel="noopener noreferrer">
+<img src="https://emirhangungormez.com.tr/assets/images/logos/barzakh.svg" width="120" alt="Barzakh" style="filter: brightness(0) invert(1);" />
 </a>
 <br><br>
 <b>Barzakh</b><br>
 <small>Oyun · 2025 – 2026</small>
 </td>
 <td align="center" width="20%">
-<a href="https://emirhangungormez.com.tr/work#truckup">
-<img src="https://emirhangungormez.com.tr/assets/images/logos/truckup.png" width="120" alt="TruckUp" />
+<a href="https://emirhangungormez.com.tr/truckup" target="_blank" rel="noopener noreferrer">
+<img src="https://emirhangungormez.com.tr/assets/images/logos/truckup.png" width="120" alt="TruckUp" style="filter: brightness(0) invert(1);" />
 </a>
 <br><br>
 <b>TruckUp</b><br>
 <small>Oyun · 2024 – 2025</small>
 </td>
 <td align="center" width="20%">
-<a href="https://emirhangungormez.com.tr/work#han13">
-<img src="https://emirhangungormez.com.tr/assets/images/logos/han13.svg" width="120" alt="han thirteen" />
+<a href="https://han13.emirhangungormez.com.tr/" target="_blank" rel="noopener noreferrer">
+<img src="https://emirhangungormez.com.tr/assets/images/logos/han13.svg" width="120" alt="han thirteen" style="filter: brightness(0) invert(1);" />
 </a>
 <br><br>
 <b>han thirteen</b><br>
 <small>Web & Ajans · 2023 – Güncel</small>
 </td>
 <td align="center" width="20%">
-<a href="https://emirhangungormez.com.tr/work#han23">
-<img src="https://emirhangungormez.com.tr/assets/images/logos/han23.svg" width="120" alt="HAN" />
+<a href="https://han23.emirhangungormez.com.tr/" target="_blank" rel="noopener noreferrer">
+<img src="https://emirhangungormez.com.tr/assets/images/logos/han23.svg" width="120" alt="han" style="filter: brightness(0) invert(1);" />
 </a>
 <br><br>
-<b>HAN</b><br>
+<b>han</b><br>
 <small>Oyun Stüdyosu · 2024 – Güncel</small>
 </td>
 </tr>
 </table>
 
-<br>
+</div>
+
+<div align="center">
 
 <h3>📡 Connect</h3>
 
-<a href="https://x.com/emirhangungormez"><img src="https://img.shields.io/badge/X-@emirhangungormez-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
-<a href="https://emirhangungormez.com.tr"><img src="https://img.shields.io/badge/Website-emirhangungormez.com.tr-111111?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a>
-<a href="https://emirhangungormez.com.tr/work"><img src="https://img.shields.io/badge/Work-emirhangungormez.com.tr/work-6f42c1?style=flat-square&logo=google-chrome&logoColor=white" alt="Work"></a>
+<a href="https://x.com/emirhangungormez" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-@emirhangungormez-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+<a href="https://emirhangungormez.com.tr" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Website-emirhangungormez.com.tr-111111?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a>
+<a href="https://emirhangungormez.com.tr/#work" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Work-emirhangungormez.com.tr/work-6f42c1?style=flat-square&logo=google-chrome&logoColor=white" alt="Work"></a>
 
 </div>
 
